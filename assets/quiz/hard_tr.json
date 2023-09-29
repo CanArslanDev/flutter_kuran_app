@@ -1,0 +1,979 @@
+[
+  {
+      "question": "Hazredi Zeyd ile boşanan ve Efendimizin halasının kızı olan Annemizin ismi nedir?",
+      "choices": [
+          "Hz. Amine",
+          "Hz. Süveyde",
+          "Hz. Sümeyye",
+          "Hz. Zeynep"
+      ],
+      "answer": "Hz. Zeynep"
+  },
+  {
+      "question": "Efendimizin Süt annesinin ismi nedir?",
+      "choices": [
+          "Zeynep",
+          "Şeyma",
+          "Fatima",
+          "Aişe"
+      ],
+      "answer": "Şeyma"
+  },
+      {
+        "question": "Hz. Muhammed'in doğum yılı hangisidir?",
+        "choices": [
+          "570",
+          "571",
+          "572",
+          "573"
+        ],
+        "answer": "571"
+      },
+      {
+        "question": "Müslüman olan ilk kadın kimdir?",
+      "choices": [
+          "Hz Amine",
+          "Hz Hatice",
+          "Hz Sümeyye",
+          "Hz Fatıma"
+      ],
+      "answer": "Hz Hatice"
+  },
+  {
+      "question": "İlk müslüman erkek kimdir ?",
+      "choices": [
+          "Hz. Ebubekir",
+          "Hz. Osman",
+          "Hz. Ömer",
+          "Hz. Abbas"
+      ],
+      "answer": "Hz. Ebubekir"
+  },
+  {
+      "question": "İlk müslüman genç kimdir?",
+      "choices": [
+          "Abdullah Bin Ömer",
+          "Erkan Bin Ebil Erkam",
+          "Zeyd Bin Harise ",
+          "Talha Bin Ubeydullah"
+      ],
+      "answer": "Zeyd Bin Harise"
+  },
+  {
+      "question": "Aşağıdaki peygamberlerden hangisi özellikle Emin adıyla nitelenmiştir?",
+      "choices": [
+          "Hz. İsa",
+          "Hz. Muhammed",
+          "Hz. Musa",
+          "Hz. Adem"
+      ],
+      "answer": "Hz. Muhammed"
+  },
+  {
+      
+        "question": "Peygamberimiz Mekke’den hicret ederken korunması için kendisine bırakılmış emanetleri neden Hz. Ali’ye teslim etmiştir?",
+        "choices": [
+          "İhtiyaçlarını karşılamak için",
+          "Malları sahiplerine geri vermesi için ",
+          "Daha sonra kendisine getirmesi için ",
+          "Hz.Ali istediği için "
+        ],
+        "answer": "Malları sahiplerine geri vermesi için"
+      },
+      {
+        "question": "Peygamberimiz en çok hangi ay içersinde daha cömertçe hareket ederdi?",
+        "choices": [
+          "Ocak",
+          "Muharrem",
+          "Ramazan",
+          "Nisan"
+        ],
+        "answer": "Ramazan"
+      },
+      {
+        "question": "Kur'an-ı Kerim'deki en uzun sure hangisidir?",
+        "choices": [
+          "Bakara Suresi",
+          "Yasin Suresi",
+          "Fatiha Suresi",
+          "Tevbe Suresi"
+        ],
+        "answer": "Bakara Suresi"
+      },
+      {
+        "question": "İslam dininde toplumun zenginlerinden alınarak fakirlere dağıtılan zekatın miktarı nedir?",
+        "choices": [
+          "Malın yüzde 5'i",
+          "Malın yüzde 10'u",
+          "Malın yüzde 2.5'i",
+          "Malın yüzde 20'si"
+        ],
+        "answer": "Malın yüzde 2.5'i"
+      },
+      {
+        "question": "İslam dininin ilk emri hangisidir?",
+        "choices": [
+          "Namaz kılın",
+          "Oruç tutun",
+          "Zekat verin",
+          "Kelime-i Şehadet getirin"
+        ],
+        "answer": "Namaz kılın"
+      },
+      {
+        "question": "Peygamber Efendimiz Hz. Muhammed'in eşleri kaç tanedir?",
+        "choices": [
+          "11",
+          "9",
+          "5",
+          "7"
+        ],
+        "answer": "11"
+      },
+      {
+        "question": "Kâbe'nin bulunduğu şehir hangisidir?",
+        "choices": [
+          "Medine",
+          "Mekke",
+          "İstanbul",
+          "Bağdat"
+        ],
+        "answer": "Mekke"
+      },
+      {
+        "question": "İslam'ın beş şartından biri olan hac ibadeti hangi ayda gerçekleştirilir?",
+        "choices": [
+          "Ramazan ayında",
+          "Recep ayında",
+          "Şaban ayında",
+          "Zilhicce ayında"
+        ],
+        "answer": "Zilhicce ayında"
+      },
+      {
+        "question": "Kur'an-ı Kerim'in toplam kaç cüzü vardır?",
+        "choices": [
+          "30",
+          "40",
+          "60",
+          "114"
+        ],
+        "answer": "30"
+      },
+          {
+            "question": "Hz. Muhammed'in babasının ismi nedir?",
+            "choices": [
+              "Abdullah",
+              "Abdulmuttalip",
+              "Ebubekir",
+              "Ömer"
+            ],
+            "answer": "Abdullah"
+          },
+          {
+            "question": "İslam'da en büyük günah olarak kabul edilen fiil hangisidir?",
+            "choices": [
+              "Şirk",
+              "Zina",
+              "Hırsızlık",
+              "Yalan"
+            ],
+            "answer": "Şirk"
+          },
+          {
+            "question": "İslam dinine göre cehennemde kaç kapı bulunur?",
+            "choices": [
+              "3",
+              "5",
+              "7",
+              "9"
+            ],
+            "answer": "7"
+          },
+          {
+            "question": "Kur'an-ı Kerim'in kaç suresi Mekke döneminde indirilmiştir?",
+            "choices": [
+              "50",
+              "70",
+              "90",
+              "110"
+            ],
+            "answer": "90"
+          },
+          {
+            "question": "İslam peygamberlerinden hangisi, göğe yükseltilmiştir?",
+            "choices": [
+              "Hz. İsa",
+              "Hz. Muhammed",
+              "Hz. İbrahim",
+              "Hz. Musa"
+            ],
+            "answer": "Hz. İsa"
+          },
+          {
+            "question": "İslam'ın ilk müezzini kimdir?",
+            "choices": [
+              "Hz. Ebu Bekir",
+              "Hz. Ömer",
+              "Hz. Ali",
+              "Hz. Bilal"
+            ],
+            "answer": "Hz. Bilal"
+          },
+          {
+            "question": "İslam dinindeki ilk ayet hangi surede yer almaktadır?",
+            "choices": [
+              "Fatiha Suresi",
+              "Alak Suresi",
+              "Yasin Suresi",
+              "İhlas Suresi"
+            ],
+            "answer": "Alak Suresi"
+          },
+          {
+            "question": "İslam'da hangi günlerde oruç tutmak sünnettir?",
+            "choices": [
+              "Pazartesi ve Perşembe",
+              "Salı ve Cuma",
+              "Cuma ve Cumartesi",
+              "Cumartesi ve Pazar"
+            ],
+            "answer": "Pazartesi ve Perşembe"
+          },
+          {
+            "question": "İslam'ın beş şartından hangisi, diğer ibadetlerin üzerinde bir öneme sahiptir?",
+            "choices": [
+              "Namaz",
+              "Zekat",
+              "Hac",
+              "Oruç"
+            ],
+            "answer": "Namaz"
+          },
+          {
+            "question": "Kur'an-ı Kerim'in indirildiği dönem kaç yıl sürmüştür?",
+            "choices": [
+              "12 yıl",
+              "23 yıl",
+              "40 yıl",
+              "50 yıl"
+            ],
+            "answer": "23 yıl"
+          },
+          {
+          "question": "İslam dininde Allah'ın kaç ismi vardır?",
+           "choices": 
+[
+"99",
+"100",
+"101",
+"108"
+],
+"answer": "99"
+},
+{
+"question": "Kuran'ın indirilmeye başlandığı gece hangi ibadet gerçekleştirilir?",
+"choices": [
+"Regaip Kandili",
+"Berat Kandili",
+"Miraç Kandili",
+"Kadir Gecesi"
+],
+"answer": "Kadir Gecesi"
+},
+{
+"question": "Kabe'nin doğusunda bulunan ve tavaf sırasında dokunulan taşın adı nedir?",
+"choices": [
+"Hacer-ül Esved",
+"Zemzem",
+"Maqam-ı İbrahim",
+"Rükn-i Yemani"
+],
+"answer": "Hacer-ül Esved"
+},
+{
+"question": "Kabe'nin inşa edilmesine yardımcı olan peygamber kimdir?",
+"choices": [
+"Hz. İbrahim (A.S.)",
+"Hz. Nuh (A.S.)",
+"Hz. Muhammed (S.A.V.)",
+"Hz. İsa (A.S.)"
+],
+"answer": "Hz. İbrahim (A.S.)"
+},
+{
+  "question": "Tabiin terimi, hangi anlama gelmektedir?",
+  "choices": [
+    "Yol gösterenler",
+    "Takipçiler",
+    "Öğreticiler",
+    "Eğitmenler"
+  ],
+  "answer": "Takipçiler"
+},
+{
+  "question": "Tabiin döneminde yaşayan, Kûfe'de ilim merkezi kuran ünlü sahabi kimdir?",
+  "choices": [
+    "Ebu Hanife",
+    "Malik bin Enes",
+    "Şafii",
+    "Ahmed bin Hanbel"
+  ],
+  "answer": "Ebu Hanife"
+},
+{
+        "question": "Tabiin döneminde yaşayan İmam Malik, hangi alanda tanınmış bir alimdir?",
+        "choices": [
+          "Fıkıh",
+          "Hadis",
+          "Tefsir",
+          "Kelam"
+        ],
+        "answer": "Fıkıh"
+      },
+  {
+    "question": "Ahmed bin Hanbel'in en ünlü eseri hangisidir?",
+    "choices": [
+      "Muvatta",
+      "Müsned",
+      "Sahih-i Buhari",
+      "Sahih-i Müslim"
+    ],
+    "answer": "Müsned"
+  },
+  {
+    "question": "Ebu Hanife'nin en ünlü eseri hangisidir?",
+    "choices": [
+      "Muvatta",
+      "Musnad",
+      "El-Mecmu",
+      "El-Fıkhü'l-Ekber"
+    ],
+    "answer": "El-Fıkhü'l-Ekber"
+  },
+  {
+          "question": "Abdullah bin Ömer, hangi ilim dalında uzmanlaşmıştır?",
+          "choices": [
+            "Hadis",
+            "Tefsir",
+            "Fıkıh",
+            "Kelam"
+          ],
+          "answer": "Hadis"
+        },
+      
+          {
+            "question": "İslam'ın ilk savaşı hangisidir?",
+            "choices": [
+              "Bedir Savaşı",
+              "Uhud Savaşı",
+              "Hendek Savaşı",
+              "Hayber Savaşı"
+            ],
+            "answer": "Bedir Savaşı"
+          },
+          {
+            "question": "İslam'ın beş şartından biri olan zekât hangi mallardan verilir?",
+            "choices": [
+              "Altın ve gümüş",
+              "Meyve ve sebzeler",
+              "Hayvanlar",
+              "Emlak"
+            ],
+            "answer": "Altın ve gümüş"
+          },
+          {
+            "question": "Hz. İbrahim'in çocuklarından biri olan İsmail, hangi bölgede yaşamıştır?",
+            "choices": [
+              "Mekke",
+              "Medine",
+              "Kudüs",
+              "Kahire"
+            ],
+            "answer": "Mekke"
+          },
+          {
+            "question": "Hz. Muhammed'in hicret ettiği şehir hangisidir?",
+            "choices": [
+              "Mekke",
+              "Medine",
+              "Şam",
+              "Kahire"
+            ],
+            "answer": "Medine"
+          },
+          {
+            "question": "Hz. Muhammed'in ilk eşi kimdir?",
+            "choices": [
+              "Hatice",
+              "Aişe",
+              "Fatıma",
+              "Zeynep"
+            ],
+            "answer": "Hatice"
+          },
+          {
+            "question": "İslam'ın dördüncü halifesi kimdir?",
+            "choices": [
+              "Hz. Ebubekir",
+              "Hz. Ömer",
+              "Hz. Osman",
+              "Hz. Ali"
+            ],
+            "answer": "Hz. Ali"
+          },
+          {
+            "question": "Kur'an'ın ilk suresi hangisidir?",
+            "choices": [
+              "Fatiha Suresi",
+              "Bakara Suresi",
+              "Al-i İmran Suresi",
+              "Nisa Suresi"
+            ],
+            "answer": "Fatiha Suresi"
+            },
+            {
+              "question": "Hz. Muhammed'in kabri hangi şehirde bulunmaktadır?",
+              "choices": [
+                "Mekke",
+                "Medine",
+                "Kudüs",
+                "Kahire"
+              ],
+              "answer": "Medine"
+            },
+            {
+              "question": "Kabe'nin kapısı hangi isimle anılmaktadır?",
+              "choices": [
+                "Babü'l-Harem",
+                "Babü's-Selam",
+                "Babü'z-Ziyaret",
+                "Babü's-Saade"
+              ],
+              "answer": "Babü'l-Harem"
+            },
+            {
+              "question": "Kabe'nin hangi tarafında Hacerü'l-Esved taşı bulunur?",
+              "choices": [
+                "Doğu tarafı",
+                "Batı tarafı",
+                "Kuzey tarafı",
+                "Güney tarafı"
+              ],
+              "answer": "Doğu tarafı"
+            },
+            {
+              "question": "Kur'an'ın hangi suresinde Tevrat ve İncil'in indirilmesi anlatılmaktadır?",
+              "choices": [
+                "Bakara Suresi",
+                "Al-i İmran Suresi",
+                "Yusuf Suresi",
+                "Taha Suresi"
+              ],
+              "answer": "Al-i İmran Suresi"
+            },
+          
+{
+  "question": "Allah(c.c.)’ın dilediği şeyleri Peygamberlerine bildirmesine ne denir?",
+  "choices": [
+    "İstişare",
+    "Rüya",
+    "Vahiy",
+    "İnayet"
+  ],
+  "answer": "Vahiy"
+},
+{
+  "question": "Kur’an’ı Kerim’de bulunan, adetleri 114 tane olan müstakil bölümlerine ne denir?",
+  "choices": [
+    "Sure",
+    "Ayette",
+    "Cüz",
+    "Ayet"
+  ],
+  "answer": "Sure"
+},
+{
+  "question": "Kur’an’ı Kerim’de hakkında en çok ayet inen kavim hangisidir?",
+  "choices": [
+    "Kavm-i Lut",
+    "Kavm-i Ad",
+    "Kavm-i Semud",
+    "İsrail oğulları"
+  ],
+  "answer": "İsrail oğulları"
+},
+{
+  "question": "Kur’an’ı Kerim’deki son sure hangisidir?",
+  "choices": [
+    "Nas",
+    "Felak",
+    "Mülk",
+    "Kıyamet"
+  ],
+  "answer": "Nas"
+},
+{
+  "question": "Kur’an’ı Kerim’in kalbi olarak zikredilen surenin ismi nedir?",
+  "choices": [
+    "Yasin",
+    "Fatiha",
+    "Tevbe",
+    "İhlas"
+  ],
+  "answer": "Yasin"
+},
+{
+  "question": "RİYÂZÜ’s-SÂLİHÎN adlı eserin yazarı kimdir",
+  "choices": [
+    "İmam Buhari",
+    "İmam Müslim",
+    "İmam Nevevi",
+    "Ebu Davud"
+  ],
+  "answer": "İmam Nevevi"
+},
+{
+  "question": "Kur’an’ı Kerim’deki en kısa sure hangisidir?",
+  "choices": [
+    "Kevser",
+    "İhlas",
+    "Nasr",
+    "Kafirun"
+  ],
+  "answer": "Kevser"
+},
+{
+  "question": "Benim kardeşimin oğluna sövüp onu inciten sen misin? diyip ve yayını Ebû Cehil’in başına vuran sahabe kimdir",
+  "choices": [
+    "Hazreti Ali",
+    "Hazreti Ebu Bekir",
+    "Hazreti Hamza",
+    "Hazreti Ömer"
+  ],
+  "answer": "Hazreti Hamza"
+},
+{
+  "question": "Efendimizin, cenazesini 70 bin melek taşıdı dediği sahabe kimdir",
+  "choices": [
+    "Hz. Hamza",
+    "Hz. Ammar",
+    "Hz. Muaz bin Cebel",
+    "Hz. Sad bin Muaz"
+  ],
+  "answer": "Hz. Sad bin Muaz"
+},
+{
+  "question": "Ebu Hanifenin asıl ismi nedir?",
+  "choices": [
+    "Ebu Ubeyde",
+    "Numan Bin Sabit",
+    "İbn Arabi",
+    "Malik bin Enes"
+  ],
+  "answer": "Numan Bin Sabit"
+},
+{
+  "question": "Efendimizin dedesinin adı nedir?",
+  "choices": [
+    "Abdülmuttalip",
+    "Ebu Talip",
+    "Ebubekir",
+    "Osman"
+  ],
+  "answer": "Abdülmuttalip"
+},
+{
+  "question": "Peygamberimiz kaç yaşında iken kendisine fiilen peygamberlik geldi?",
+  "choices": [
+    "20 yaşında",
+    "30 yaşında",
+    "40 yaşında",
+    "50 yaşında"
+  ],
+  "answer": "40 yaşında"
+},
+{
+  "question": "Efendimizin, Anam, babam sana fedâ olsun, ey ...! At! oku atmasını istediği sahabe kimdir",
+  "choices": [
+    "Hz. Sad Bin Ebi Vakkas",
+    "Hz. Osman",
+    "Hz. Abdullah bin Ömer",
+    "Sad Miktat"
+  ],
+  "answer": "Sad Bin Ebi Vakkas"
+},
+{
+  "question": "Efendimiz kaç sene peygamberlik yaptı?",
+  "choices": [
+    "10 sene",
+    "15 sene",
+    "20 sene",
+    "23 sene"
+  ],
+  "answer": "23 sene"
+},
+{
+  "question": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın işlenmesini kesin olarak emrettiği hükümlere ne ad verilir? Bir kaç örnek veriniz.",
+  "choices": [
+    "Nafile",
+    "Müstehap",
+    "Farz",
+    "Haram"
+  ],
+  "answer": "Farz"
+},
+{
+    "question": "Allah (c.c.)’ın emir ve yasakları karşısında sorumlu olan, akıllı ve buluğ çağına eren müslümana ne denir?",
+    "choices": [
+      "Mümin",
+      "Müslüman",
+      "Mücahit",
+      "Mükellef"
+    ],
+    "answer": "Mükellef"
+  },
+  {
+      "question": "Peygamber Efendimiz (s.a.v.)’in farz ve vacipler dışında yaptığı ve yapılmasını istediği ibadetlere ne ad verilir?",
+      "choices": [
+        "Nafile",
+        "Müstehap",
+        "Fard",
+        "Sünnet"
+      ],
+      "answer": "Sünnet"
+    },
+    {
+        "question": "İşlenmesinde sevap olan, terk edilmesinde günah olmayan, Efal-i Mükellefinden olup Peygamberimiz (s.a.v.)’in bazen yaptığı bazense terk ettiği ibadete ne denir?",
+        "choices": [
+          "Farz",
+          "Vacip",
+          "Sünnet",
+          "Müstehap"
+        ],
+        "answer": "Müstehap"
+      },
+        {
+            "question": "Efendimizin iki kızını birden verdiğinden Zinnureyn - iki nur sahibi - lakabını alan sahabe kimdir",
+            "choices": [
+              "Hz. Ali",
+              "Hz. Ömer",
+              "Hz. Osman",
+              "Hz. Zeyd"
+            ],
+            "answer": "Hz. Osman"
+          },
+          {
+            "question": "Hazreti Ali'nin eşi kimdir?",
+            "choices": [
+              "Hz. Hatice",
+              "hz. Ayşe",
+              "Hz. Fatıma",
+              "hz. Zeynep"
+            ],
+            "answer": "Hz. Fatıma"
+          },
+       
+{
+"question": "İslâm'da ilk şehit erkek sahabî?",
+"choices": [
+  "Hz. Muaz bin Cebel",
+  "Yasir b. Âmir",
+  "Hz. Sad bin Muaz",
+  "Hz. Osman"
+],
+"answer": "Yasir b. Âmir"
+},
+{
+"question": "Allah yolunda ilk kan döken sahabe kimdir",
+"choices": [
+  "Hz. Ali",
+  "Hz. Ömer",
+  "Hz. Hamza",
+  "Sad Bin Ebi Vakkas"
+],
+"answer": "Sad Bin Ebi Vakkas"
+},
+{
+"question": "Hazreti Hamza'yı şehit eden kişi kimdir?",
+"choices": [
+  "Ebu Cehil",
+  "Amb ibn As",
+  "İbn Selül",
+  "Vahşi"
+],
+"answer": "Vahşi"
+},
+{
+"question": "Tekrarlarıyla birlikte yedi yüz bin (veya bir milyon) Hadis rivayetini ezbere bilen kişi kimdir?",
+"choices": [
+  "Ebu Hanife",
+  "Ahmed bin Hanbel",
+  "İmam Malik",
+  "İmam Buhari"
+],
+"answer": "Ahmed bin Hanbel"
+},
+{
+"question": "Abbasî halifelerinin baskıyla kabul ettirmeye çalıştıkları Kur'ân'ın mahluk olduğu fikrine karşı gelen ve zindana atılıp kırbaçlarla şehit edilen alim kimdir?",
+"choices": [
+  "İmam Müslim",
+  "Hallacı Mansur",
+  "İbn Arabi",
+  "Ahmed bin Hanbel"
+],
+"answer": "Ahmed bin Hanbel"
+},
+{
+"question": "Aşağıdakilerinden hangisi Dört hak mezhepten biri olan İmam Malik'in Hocalarından bir tanesidir?",
+"choices": [
+  "Nafi",
+  "Abdullah Bin Ömer",
+  "Ataullah iskenderi",
+  "Ahmed bin Hanbel"
+],
+"answer": "Nafi"
+},
+{
+"question": "4 Mezhep imamından hangisi Efendimizin soyundan gelmektedir?",
+"choices": [
+  "Ahmed bin Hanbel",
+  "İmam Malik",
+  "İmam Şafii",
+  "Ebu Hanife"
+],
+"answer": "İmam Şafii"
+},
+{
+"question": "El keşşaf adlı Kuranı Kerim tefsirinin yazarı kimdir?",
+"choices": [
+  "İbn Abbas",
+  "Taberani",
+  "Zemahşeri",
+  "İbn Kesir"
+],
+"answer": "Zemahşeri"
+},
+{
+"question": "Hz. Ali ile Hz. Muaviye arasında geçen hakem olayındaki hakemler kimlerdir?",
+"choices": [
+  "Eşas b. Kays - Amr bin as",
+  "Amr b. Âs - Ebu Musa",
+  "Abdullah b. Abbas - Abdullah bin Ömer",
+  "Mâlik b. Hâris el-Eşter - Ebu Musa"
+],
+"answer": "Amr b. Âs - Ebu Musa"
+},
+{
+"question": "Cemel vakası kimler arasında geçmiştir?",
+"choices": [
+  "Hz. Ali ile Hz. Muaviye",
+  "Amr b. Âs ile Hz. Muaviye",
+  "Hz. Ali ile Hz. Aişe",
+  "Hz. Aişe ile Amr bin As"
+],
+"answer": "Hz. Ali ile Hz. Aişe"
+},
+{
+"question": "Kufe şehri hangi halife emriyle kuruldu?",
+"choices": [
+  "Hz. Ebubekir",
+  "Hz. Ali",
+  "Hz. Ömer",
+  "Hz. Osman"
+],
+"answer": "Hz. Ömer"
+},
+{
+"question": "Mısır fâtihi ünvanıyla meşhur sahâbî kimdir",
+"choices": [
+  "Amr bin As",
+  "Hz. Muaviye",
+  "Abdullah bin mesud",
+  "Hz. Osman"
+],
+"answer": "Amr bin As"
+},
+{
+"question": "Kuran'ın hangi suresinde Deccal konusu ele alınmıştır?",
+"choices": [
+  "Kehf Suresi",
+  "Yasin Suresi",
+  "Neml Suresi",
+  "Furkan Suresi"
+],
+"answer": "Kehf Suresi"
+},
+{
+  "question": "Hz. Muaviye hangi halife döneminde valilik yapmıştır?",
+"choices": [
+  "Hz. Ebubekir",
+  "Hz. Ali",
+  "Hz. Ömer",
+  "Hz. Osman"
+],
+"answer": "Hz. Osman"
+},
+{
+"question": "Yezid hangi halifenin oğludur?",
+"choices": [
+  "Hz. Ali",
+  "Hz. Hasan",
+  "Hz. Muaviye",
+  "Hz. Ömer"
+],
+"answer": "Hz. Muaviye"
+},
+{
+"question": "İbn Teymiyye hangi düşünce okulunu savunmuştur?",
+"choices": [
+  "Mutezile",
+  "Eş'ari",
+  "Ebu Hanife",
+  "Selefi"
+],
+"answer": "Selefi"
+},
+{
+"question": "Amr bin As hangi dönemde İslam'a katılmıştır?",
+"choices": [
+  "Mekke dönemi",
+  "Medine dönemi",
+  "Fetih dönemi",
+  "Hicret dönemi"
+],
+"answer": "Fetih dönemi"
+},
+{
+"question": "Cebriye mezhebi hangi inanca sahiptir?",
+"choices": [
+  "Tekfir",
+  "Kadercilik",
+  "İrşad",
+  "İstiğna"
+],
+"answer": "Kadercilik"
+},
+{
+"question": "Hazreti Hüseyin hangi olayda şehit edilmiştir?",
+"choices": [
+  "Kerbela Olayı",
+  "Mute Savaşı",
+  "Huneyn Savaşı",
+  "Tevbesi"
+],
+"answer": "Kerbela Olayı"
+},
+{
+"question": "Kur'an'ın hangi suresi Allah'ın kullarına merhametini anlatmaktadır?",
+"choices": [
+  "Fatiha Suresi",
+  "Rahman Suresi",
+  "Tevbe Suresi",
+  "Nisa Suresi"
+],
+"answer": "Rahman Suresi"
+},
+{
+"question": "Namazın farzı kaçtır?",
+  "choices": [
+    "8",
+    "9",
+    "12",
+    "5"
+  ],
+  "answer": "12"
+},
+{
+  "question": "Yunus (as) peygamber hangi millete gönderilmiştir?",
+  "choices": [
+    "İsrailoğulları",
+    "Mısırlılar",
+    "Babil halkı",
+    "Roma halkı"
+  ],
+  "answer": "İsrailoğulları"
+},
+{
+  "question": "Yusuf (as) peygamber hangi ülkenin yöneticisi olmuştur?",
+  "choices": [
+    "Filistin",
+    "Mısır",
+    "Babil",
+    "Suriye"
+  ],
+  "answer": "Mısır"
+},
+{
+  "question": "Peygamberimize ilk vahiy hangi yıl gelmiştir?",
+  "choices": [
+    "614",
+    "612",
+    "610",
+    "608"
+  ],
+  "answer": "610"
+},
+{
+  
+  "question": "Davud (as) hangi büyük düşmanla mücadele etmiştir?",
+  "choices": [
+    "Firavun",
+    "Nemrut",
+    "Câlût",
+    "Kârun"
+  ],
+  "answer": "Câlût"
+},
+{
+  "question": "Peygamberimize ilk vahiy hangi dağda gelmiştir?",
+  "choices": [
+    "Hira",
+    "Serv",
+    "Sahra",
+    "Hicaz"
+  ],
+  "answer": "Hira"
+},
+{
+  "question": "Namazın farzlarından olan Setr-i avret ne demektir?",
+  "choices": [
+    "Namazda eğilmek",
+    "Örtülmesi gereken yerleri örtmek",
+    "Abdest almak",
+    "Tekbir getirmek"
+  ],
+  "answer": "Örtülmesi gereken yerleri örtmek"
+},
+{
+  "question": "Hangi nafile namaz gece yarısından sonra kılınır?",
+  "choices": [
+    "Duha",
+    "Evvabin",
+    "Teheccüd",
+    "Kuşluk"
+  ],
+  "answer": "Teheccüd"
+},
+{
+  "question": "Cuma namazı kaç rekattır?",
+  "choices": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "answer": "2"
+},
+{
+"question": "Kur'an'ın hangi suresinde Hz. Musa'nın mucizeleri anlatılmaktadır?",
+"choices": [
+  "Taha Suresi",
+  "Nisa Suresi",
+  "Hud Suresi",
+  "Tevbe Suresi"
+],
+"answer": "Taha Suresi"
+
+ }      
+]

@@ -1,0 +1,397 @@
+[
+    {
+        "question": "Kâbe hangi şehirde bulunur?",
+        "choices": [
+            "Medine",
+            "Mekke",
+            "Riyad",
+            "İstanbul"
+        ],
+        "answer": "Mekke"
+    },
+  {
+    "question": "İslam'da hangi günlerde oruç tutmak sünnettir?",
+    "choices": [
+      "Pazartesi ve Perşembe",
+      "Salı ve Cuma",
+      "Cuma ve Cumartesi",
+      "Cumartesi ve Pazar"
+    ],
+    "answer": "Pazartesi ve Perşembe"
+  },
+  {
+    "question": "İslam dinine göre kaç tane melek bulunmaktadır?",
+    "choices": [
+      "4",
+      "7",
+      "10",
+      "12"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Kur'an'ın ilk suresi olan 'Fatiha Suresi' kaç ayetten oluşur?",
+    "choices": [
+    "5",
+    "6",
+    "7",
+    "8"
+    ],
+    "answer": "7"
+    },
+    {
+      "question": "İslam'ın dört büyük kitabından biri olan Tevrat, hangi peygambere indirilmiştir?",
+      "choices": [
+      "Hz. İbrahim",
+      "Hz. İsa",
+      "Hz. Davut",
+      "Hz. Musa"
+      ],
+      "answer": "Hz. Musa"
+      },
+      {
+        "question": "İslam'ın kutsal kitabı Kur'an, kaç sure ve kaç ayetten oluşur?",
+        "choices": [
+        "114 sure, 6666 ayet",
+        "100 sure, 5000 ayet",
+        "99 sure, 6236 ayet",
+        "120 sure, 7100 ayet"
+        ],
+        "answer": "114 sure, 6666 ayet"
+        },
+        {
+          "question": "İslam hukukunda, bir hüküm çıkarılırken Kuran ve Sünnet'e uygunluk araştırmasına ne ad verilir?",
+          "choices": [
+          "Kıyas",
+          "İstihsan",
+          "İcmâ",
+          "Teşri"
+          ],
+          "answer": "Kıyas"
+          },
+          {
+            "question": "Hz. Ali'nin halifeliği döneminde başlayan iç savaşnın adı nedir?",
+            "choices": [
+            "Cemel Vakası",
+            "Sıffın Savaşı",
+            "Kerbela Vakası",
+            "Nehrevan Savaşı"
+            ],
+            "answer": "Cemel Vakası"
+            },
+            {
+              "question": "Efendimiz'in (SAV) eşi olan Hz. Hatice ile kaç yıl evli kalmıştır?",
+              "choices": [
+              "10 yıl",
+              "15 yıl",
+              "20 yıl",
+              "25 yıl"
+              ],
+              "answer": "25 yıl"
+              },
+  {
+    "question": "İslam'ın beş şartından hangisi, diğer ibadetlerin üzerinde bir öneme sahiptir?",
+    "choices": [
+      "Namaz",
+      "Zekat",
+      "Hac",
+      "Oruç"
+    ],
+    "answer": "Namaz"
+  },
+  {
+    "question": "Kur'an-ı Kerim'in indirildiği dönem kaç yıl sürmüştür?",
+    "choices": [
+      "12 yıl",
+      "23 yıl",
+      "40 yıl",
+      "50 yıl"
+    ],
+    "answer": "23 yıl"
+  },
+  {
+    "question": "İslam dininde Allah'ın kaç ismi vardır?",
+    "choices": [
+      "99",
+      "100",
+      "101",
+      "108"
+    ],
+    "answer": "99"
+  },
+  {
+    "question": "Kuran'ın indirilmeye başlandığı gece hangisidir?",
+    "choices": [
+      "Regaip Kandili",
+      "Berat Kandili",
+      "Miraç Kandili",
+      "Kadir Gecesi"
+    ],
+    "answer": "Kadir Gecesi"
+    },
+    {
+      "question": "Hz. Muhammed'in doğum yeri neresidir?",
+      "choices": [
+        "Mekke",
+        "Medine",
+        "İstanbul",
+        "Taif"
+      ],
+      "answer": "Mekke"
+    },
+    {
+      "question": "Hz. Muhammed'in doğum tarihi hangi yıla denk gelmektedir?",
+      "choices": [
+        "571",
+        "610",
+        "632",
+        "570"
+      ],
+      "answer": "571"
+    },
+    {
+      "question": "Hz. Muhammed'in evliliklerinin toplam sayısı kaçtır?",
+      "choices": [
+        "11",
+        "3",
+        "7",
+        "9"
+      ],
+      "answer": "11"
+    },
+    {
+      "question": "Hz. Muhammed'in ilk eşi kimdir?",
+      "choices": [
+        "Hatice",
+        "Amine",
+        "Ayshe",
+        "Fâtıma"
+      ],
+      "answer": "Hatice"
+    },
+    {
+      "question": "Hz. Muhammed'in hicret ettiği şehir hangisidir?",
+      "choices": [
+        "Mekke",
+        "Medine",
+        "İstanbul",
+        "Taif"
+      ],
+      "answer": "Medine"
+    },
+    {
+      "question": "Hz. Muhammed'in hicret ettiği yıl hangisidir?",
+      "choices": [
+        "622",
+        "632",
+        "610",
+        "571"
+      ],
+      "answer": "622"
+    },
+        {
+          "question": "Hz. Muhammed'in anne adı nedir?",
+          "choices": [
+            "Amine",
+            "Hatice",
+            "Ayshe",
+            "Fâtıma"
+          ],
+          "answer": "Amine"
+        },
+          {
+            "question": "Efendimize en yakın sahabelerinden biri olan ilk halife kimdir?",
+            "choices": [
+              "Ebu Bekir",
+              "Ömer",
+              "Osman",
+              "Ali"
+            ],
+            "answer": "Ebu Bekir"
+          },
+          {
+            "question": "Efendimizin amcası ve ilk müslümanlardan olan sahabe?",
+            "choices": [
+              "Hamza",
+              "Abbas",
+              "Talha",
+              "Zübeyr"
+            ],
+            "answer": "Hamza"
+          },
+          {
+            "question": "Efendimizin yakın arkadaşı ve hilafet dönemindeki 3. Halife olan sahabe?",
+            "choices": [
+              "Ebu Bekir",
+              "Ömer",
+              "Osman",
+              "Ali"
+            ],
+            "answer": "Osman"
+          },
+          {
+            "question": "Hz. Muhammed'in damadı ve 4. halife olan sahabe kimdir?",
+            "choices": [
+              "Ebu Bekir",
+              "Ömer",
+              "Osman",
+              "Ali"
+            ],
+            "answer": "Ali"
+          },
+          {
+            "question": "Hz. Muhammed'in en çok hadis rivayet eden sahabe kimdir?",
+            "choices": [
+              "Ebu Hureyre",
+              "İbn Abbas",
+              "Anas bin Malik",
+              "Abdullah bin Mesud"
+            ],
+            "answer": "Ebu Hureyre"
+            },
+            {
+              "question": "İslam'ın beş şartından biri olan zekât hangi mala uygulanır?",
+              "choices": [
+                "Altın ve gümüş",
+                "Para",
+                "Emlak",
+                "Araba"
+              ],
+              "answer": "Altın ve gümüş"
+            },
+            {
+              "question": "Hz. Muhammed'in kabri hangi şehirde bulunmaktadır?",
+              "choices": [
+                "Mekke",
+                "Medine",
+                "Kudüs",
+                "Kahire"
+              ],
+              "answer": "Medine"
+            },
+            {
+              "question": "İslam'ın beş şartından biri olan oruç hangi ayda tutulur?",
+              "choices": [
+                "Ramazan",
+                "Muharrem",
+                "Receb",
+                "Şaban"
+              ],
+              "answer": "Ramazan"
+            },
+            {
+              "question": "Kur'an'ın hangi suresi Bakara Suresi'nden önce gelir?",
+              "choices": [
+                "Fatiha Suresi",
+                "Al-i İmran Suresi",
+                "Yusuf Suresi",
+                "Taha Suresi"
+              ],
+              "answer": "Fatiha Suresi"
+            },
+        
+            {
+              "question": "Hz. Muhammed'in hangi meslek ile uğraştığını biliyor musunuz?",
+              "choices": [
+                "Tüccarlık",
+                "Çiftçilik",
+                "Öğretmenlik",
+                "Doktorluk"
+              ],
+              "answer": "Tüccarlık"
+            },
+            {
+              "question": "İslam'ın beş şartından biri olan hac ibadeti kaç defa yapılır?",
+              "choices": [
+                "Bir defa",
+                "İki defa",
+                "Üç defa",
+                "Dört defa"
+              ],
+              "answer": "Bir defa"
+            },
+            {
+                "question": "Hz. Muhammed'in hangi yılında Mekke'den Medine'ye hicret etti?",
+                "choices": [
+                  "610",
+                  "622",
+                  "632",
+                  "644"
+                ],
+                "answer": "622"
+              },
+              {
+                "question": "Hz. Muhammed'in hangi mesleği vardı?",
+                "choices": [
+                  "Tüccar",
+                  "Çiftçi",
+                  "Marangoz",
+                  "hekim"
+                ],
+                "answer": "Tüccar"
+              },
+              {
+                "question": "İslam'a göre, kaç tane melek vardır?",
+                "choices": [
+                  "1",
+                  "4",
+                  "6",
+                  "7"
+                ],
+                "answer": "4"
+              },
+              {
+                "question": "Kur'an'ın indirilmeye başlandığı ay hangisidir?",
+                "choices": [
+                  "Muharrem",
+                  "Receb",
+                  "Ramazan",
+                  "Şaban"
+                ],
+                "answer": "Ramazan"
+              },
+              {
+                "question": "İslam'da hangi gün oruç tutulmaz?",
+                "choices": [
+                  "Cuma",
+                  "Cumartesi",
+                  "Pazar",
+                  "Salı"
+                ],
+                "answer": "cuma"
+              },
+              {
+                "question": "Efendimiz'in (SAV) halifelerinden olan ve adaletiyle ün salmış kişi kimdir?",
+                "choices": [
+                "Hz. Ebu Bekir",
+                "Hz. Ömer",
+                "Hz. Osman",
+                "Hz. Ali"
+                ],
+                "answer": "Hz. Ömer"
+                },
+                
+              {
+                "question": "Buhari hangi alanda uzmanlaşmıştır?",
+                "choices": [
+                  "Fıkıh",
+                  "Tefsir",
+                  "Hadis",
+                  "Siyer"
+                ],
+                "answer": "Hadis"
+              },
+              {
+                "question": "Buhari'nin doğum yeri hangi ülkededir?",
+                "choices": [
+                  "Suudi Arabistan",
+                  "Mısır",
+                  "Fas",
+                  "Özbekistan"
+                ],
+                "answer": "Özbekistan"
+                
+            
+      }
+                 
+    ]

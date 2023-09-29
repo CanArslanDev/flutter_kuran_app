@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "497142171463",
+    "project_id": "kuran-89cb3",
+    "storage_bucket": "kuran-89cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497142171463:android:7d34510d7994f5716dee62",
+        "android_client_info": {
+          "package_name": "com.islam.uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjcGwebdMyIDMLLJtrxNbAmNFVVOox98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497142171463:android:910e6ca69bfbf4cf6dee62",
+        "android_client_info": {
+          "package_name": "com.kuran.mealii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497142171463-cj4rgn95hgf599oreunpsgg68t8unfkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuran.mealii",
+            "certificate_hash": "c7ee595ee482b2cf78d57b27e2b6e79a68ace2da"
+          }
+        },
+        {
+          "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjcGwebdMyIDMLLJtrxNbAmNFVVOox98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4828471636798994~1695613402"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497142171463:android:6a8fc5c766bbb35b6dee62",
+        "android_client_info": {
+          "package_name": "com.kuran.mealiii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjcGwebdMyIDMLLJtrxNbAmNFVVOox98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497142171463-0ng0764osefhjjamfp9b3stj03toac8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4828471636798994~4076271993"
+    }
+  ],
+  "configuration_version": "1"
+}

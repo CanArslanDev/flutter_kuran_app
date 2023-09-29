@@ -1,0 +1,412 @@
+[
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun kurucusu kimdir?",
+        "choices": [
+            "Fatih Sultan Mehmet",
+            "Orhan Gazi",
+            "I. Murad",
+            "Osman Gazi"
+        ],
+        "answer": "Osman Gazi"
+    },
+    {
+        "question": "TÃ¼rkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "choices": [
+            "Mustafa Kemal AtatÃ¼rk",
+            "Ä°smet Ä°nÃ¶nÃ¼",
+            "Celal Bayar",
+            "Ä°smet Ä°nÃ¶nÃ¼"
+        ],
+        "answer": "Mustafa Kemal AtatÃ¼rk"
+    },
+    {
+        "question": "Hangi yÄ±l TÃ¼rkiye Cumhuriyeti ilan edildi?",
+        "choices": [
+            "1920",
+            "1922",
+            "1923",
+            "1924"
+        ],
+        "answer": "1923"
+    },
+    {
+        "question": "I. DÃ¼nya SavaÅŸÄ± hangi yÄ±llar arasÄ±nda gerÃ§ekleÅŸti?",
+        "choices": [
+            "1914-1916",
+            "1915-1917",
+            "1916-1918",
+            "1914-1918"
+        ],
+        "answer": "1914-1918"
+    },
+    {
+        "question": "AtatÃ¼rk'Ã¼n Samsun'a Ã§Ä±kÄ±ÅŸÄ± hangi tarihte gerÃ§ekleÅŸti?",
+        "choices": [
+            "19 MayÄ±s 1919",
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "10 KasÄ±m 1938"
+        ],
+        "answer": "19 MayÄ±s 1919"
+    },
+    {
+        "question": "Hangi yÄ±l TÃ¼rk Dil BayramÄ± olarak kutlanmaktadÄ±r?",
+        "choices": [
+            "23 Nisan",
+            "19 MayÄ±s",
+            "29 Ekim",
+            "10 KasÄ±m"
+        ],
+        "answer": "23 Nisan"
+    },
+    {
+        "question": "KurtuluÅŸ SavaÅŸÄ± hangi yÄ±llar arasÄ±nda gerÃ§ekleÅŸti?",
+        "choices": [
+            "1918-1920",
+            "1919-1922",
+            "1919-1923",
+            "1920-1923"
+        ],
+        "answer": "1919-1922"
+    },
+    {
+        "question": "TÃ¼rkiye'de kadÄ±nlara seÃ§me ve seÃ§ilme hakkÄ± hangi yÄ±l verilmiÅŸtir?",
+        "choices": [
+            "1923",
+            "1930",
+            "1934",
+            "1938"
+        ],
+        "answer": "1934"
+    },
+    {
+        "question": "TÃ¼rkiye'de hilafetin kaldÄ±rÄ±lmasÄ± hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1922",
+            "1923",
+            "1924",
+            "1925"
+        ],
+        "answer": "1924"
+    },
+    {
+        "question": "TÃ¼rkiye Cumhuriyeti'nin ilan edildiÄŸi tarih hangisidir?",
+        "choices": [
+            "1920",
+            "1922",
+            "1923",
+            "1924"
+        ],
+        "answer": "1923"
+    },
+    {
+        "question": "Harf Devrimi hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1928"
+    },
+    {
+        "question": "TÃ¼rkiye Cumhuriyeti'nin baÅŸkenti neresidir?",
+        "choices": [
+            "Ä°stanbul",
+            "Ankara",
+            "Ä°zmir",
+            "Bursa"
+        ],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Hangi yÄ±l TÃ¼rk Dil BayramÄ± olarak kutlanmaktadÄ±r?",
+        "choices": [
+            "19 MayÄ±s",
+            "23 Nisan",
+            "29 Ekim",
+            "10 KasÄ±m"
+        ],
+        "answer": "23 Nisan"
+    },
+    {
+        "question": "YabancÄ± isimlerin TÃ¼rkÃ§e'ye dÃ¶nÃ¼ÅŸtÃ¼rÃ¼lmesi Ã§alÄ±ÅŸmasÄ± hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1932"
+    },
+    {
+        "question": "KÄ±yafet Devrimi hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1925",
+            "1927",
+            "1929",
+            "1931"
+        ],
+        "answer": "1925"
+    },
+    {
+        "question": "TÃ¼rkiye'de tekke ve zaviyelerin kapatÄ±lmasÄ± hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1924",
+            "1926",
+            "1928",
+            "1930"
+        ],
+        "answer": "1925"
+    },
+    {
+        "question": "Latin alfabesine geÃ§iÅŸ hangi yÄ±l gerÃ§ekleÅŸtirilmiÅŸtir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1928"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun kurucusu kimdir?",
+        "choices": [
+            "Fatih Sultan Mehmet",
+            "Orhan Gazi",
+            "I. Murad",
+            "Osman Gazi"
+        ],
+        "answer": "Osman Gazi"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun baÅŸkenti neresidir?",
+        "choices": [
+            "Ä°stanbul",
+            "Ankara",
+            "Bursa",
+            "Edirne"
+        ],
+        "answer": "Ä°stanbul"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun en uzun hÃ¼kÃ¼mdarÄ± kimdir?",
+        "choices": [
+            "II. Mahmud",
+            "I. AbdÃ¼lhamid",
+            "II. Abdulhamid",
+            "Kanuni Sultan SÃ¼leyman"
+        ],
+        "answer": "Kanuni Sultan SÃ¼leyman"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun son hÃ¼kÃ¼mdarÄ± kimdir?",
+        "choices": [
+            "I. Mehmed",
+            "II. Mehmed",
+            "V. Mehmed",
+            "VI. Mehmed"
+        ],
+        "answer": "VI. Mehmed"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun son dÃ¶nem padiÅŸahÄ± hangi saltanat dÃ¶neminde tahtta olmuÅŸtur?",
+        "choices": [
+            "I. Mahmud",
+            "II. Mahmud",
+            "II. Abdulhamid",
+            "V. Mehmed ReÅŸad"
+        ],
+        "answer": "II. Abdulhamid"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu hangi yÄ±l daÄŸÄ±lmÄ±ÅŸtÄ±r?",
+        "choices": [
+            "1918",
+            "1920",
+            "1922",
+            "1924"
+        ],
+        "answer": "1922"
+    },
+    {
+        "question": "OsmanlÄ± Ä°mparatorluÄŸu'nun son dÃ¶neminde hangi savaÅŸta OsmanlÄ± Devleti yenilmiÅŸtir?",
+        "choices": [
+            "I. DÃ¼nya SavaÅŸÄ±",
+            "II. DÃ¼nya SavaÅŸÄ±",
+            "KurtuluÅŸ SavaÅŸÄ±",
+            "Trablusgarp SavaÅŸÄ±"
+        ],
+        "answer": "I. DÃ¼nya SavaÅŸÄ±"
+    },
+    {
+        "question": "Hangi padiÅŸahÄ±n saltanat dÃ¶neminde Tanzimat FermanÄ± ilan edilmiÅŸtir?",
+        "choices": [
+            "I. Mahmud",
+            "II. Mahmud",
+            "AbdÃ¼lmecid",
+            "AbdÃ¼laziz"
+        ],
+        "answer": "AbdÃ¼lmecid"
+    },
+    {
+        "question": "MoÄŸol Ä°mparatorluÄŸu'nun kurucusu kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Timur",
+            "Batu Han"
+        ],
+        "answer": "Cengiz Han"
+    },
+    {
+        "question": "MoÄŸollar hangi yÃ¼zyÄ±lda Orta Asya'dan Ã§Ä±karak geniÅŸ bir imparatorluk kurmuÅŸlardÄ±r?",
+        "choices": [
+            "10. yÃ¼zyÄ±l",
+            "11. yÃ¼zyÄ±l",
+            "12. yÃ¼zyÄ±l",
+            "13. yÃ¼zyÄ±l"
+        ],
+        "answer": "13. yÃ¼zyÄ±l"
+    },
+    {
+        "question": "MoÄŸollar hangi Ã¼lkenin baÅŸkentini ele geÃ§irerek bÃ¼yÃ¼k bir imparatorluk kurmuÅŸlardÄ±r?",
+        "choices": [
+            "Ã‡in",
+            "Hindistan",
+            "Pers",
+            "Rusya"
+        ],
+        "answer": "Ã‡in"
+    },
+    {
+        "question": "MoÄŸollarÄ±n kurduÄŸu imparatorluÄŸun baÅŸkenti hangi ÅŸehirdir?",
+        "choices": [
+            "Buhara",
+            "Ä°sfahan",
+            "Samarkand",
+            "TaÅŸkent"
+        ],
+        "answer": "Samarkand"
+    },
+    {
+        "question": "MoÄŸollar hangi taktikleriyle tanÄ±nmÄ±ÅŸlardÄ±r?",
+        "choices": [
+            "Gizli suikastlar",
+            "OkÃ§u savaÅŸÃ§Ä±lar",
+            "ZÄ±rhlÄ± savaÅŸ arabalarÄ±",
+            "KuÅŸatma makineleri"
+        ],
+        "answer": "OkÃ§u savaÅŸÃ§Ä±lar"
+    },
+    {
+        "question": "MoÄŸollarÄ±n hÃ¼kÃ¼m sÃ¼rdÃ¼ÄŸÃ¼ dÃ¶nemde hangi Ã¼nlÃ¼ gezgin, MoÄŸol Ä°mparatorluÄŸu'nu ziyaret etmiÅŸtir?",
+        "choices": [
+            "Marco Polo",
+            "Ibn Battuta",
+            "Christopher Columbus",
+            "Vasco da Gama"
+        ],
+        "answer": "Marco Polo"
+    },
+    {
+        "question": "MoÄŸol Ä°mparatorluÄŸu hangi yÄ±l daÄŸÄ±lmÄ±ÅŸtÄ±r?",
+        "choices": [
+            "1258",
+            "1299",
+            "1368",
+            "1405"
+        ],
+        "answer": "1368"
+    },
+    {
+        "question": "MoÄŸollarÄ±n BatÄ±'ya yaptÄ±ÄŸÄ± bÃ¼yÃ¼k akÄ±nlarÄ± hangi isimle anÄ±lmaktadÄ±r?",
+        "choices": [
+            "BÃ¼yÃ¼k GÃ¶Ã§",
+            "AltÄ±n Orda Devleti",
+            "MoÄŸol Ä°stilasÄ±",
+            "Silk Road"
+        ],
+        "answer": "MoÄŸol Ä°stilasÄ±"
+    },
+    {
+        "question": "MoÄŸollarÄ±n BatÄ±'ya yaptÄ±ÄŸÄ± akÄ±nlarda baÅŸarÄ±yla kullanÄ±lan askeri birlikleri hangi adÄ± taÅŸÄ±r?",
+        "choices": [
+            "Timar sistemi",
+            "YayasÄ±z askerler",
+            "TopÃ§u birlikleri",
+            "TÃ¼men"
+        ],
+        "answer": "TÃ¼men"
+    },
+    {
+        "question": "MoÄŸol Ä°mparatorluÄŸu'nun en Ã¼nlÃ¼ hÃ¼kÃ¼mdarÄ± kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Batu Han",
+            "Timur"
+        ],
+        "answer": "Cengiz Han"
+    },
+    {
+        "question": "MoÄŸol Ä°mparatorluÄŸu'nun baÅŸkenti hangi ÅŸehirdir?",
+        "choices": [
+            "Karakurum",
+            "Buhara",
+            "Samarkand",
+            "Pekin"
+        ],
+        "answer": "Karakurum"
+    },
+    {
+        "question": "MoÄŸollarÄ±n Avrupa'ya yaptÄ±ÄŸÄ± seferleri yÃ¶neten hanedanlÄ±k hangisidir?",
+        "choices": [
+            "AltÄ±n Orda Devleti",
+            "Timur Ä°mparatorluÄŸu",
+            "SelÃ§uklu HanedanlÄ±ÄŸÄ±",
+            "Safevi Devleti"
+        ],
+        "answer": "AltÄ±n Orda Devleti"
+    },
+    {
+        "question": "MoÄŸollarÄ±n Avrupa'ya yaptÄ±ÄŸÄ± seferlerin komutanÄ± kimdir?",
+        "choices": [
+            "Kubilay Han",
+            "Batu Han",
+            "Timur",
+            "Tamerlane"
+        ],
+        "answer": "Batu Han"
+    },
+    {
+        "question": "MoÄŸollarÄ±n BatÄ±'ya yaptÄ±ÄŸÄ± akÄ±nlar hangi yÃ¼zyÄ±lda gerÃ§ekleÅŸmiÅŸtir?",
+        "choices": [
+            "10. yÃ¼zyÄ±l",
+            "11. yÃ¼zyÄ±l",
+            "12. yÃ¼zyÄ±l",
+            "13. yÃ¼zyÄ±l"
+        ],
+        "answer": "13. yÃ¼zyÄ±l"
+    },
+    {
+        "question": "MoÄŸollarÄ±n Ä°ran'Ä± fetheden komutanÄ± kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Timur",
+            "HÃ¼lagÃ¼ Han"
+        ],
+        "answer": "HÃ¼lagÃ¼ Han"
+    },
+    {
+        "question": "MoÄŸollarÄ±n kurduÄŸu bÃ¼yÃ¼k imparatorluÄŸun adÄ± nedir?",
+        "choices": [
+            "SelÃ§uklu Ä°mparatorluÄŸu",
+            "Safevi Ä°mparatorluÄŸu",
+            "OsmanlÄ± Ä°mparatorluÄŸu",
+            "MoÄŸol Ä°mparatorluÄŸu"
+        ],
+        "answer": "MoÄŸol Ä°mparatorluÄŸu"
+    }
+]

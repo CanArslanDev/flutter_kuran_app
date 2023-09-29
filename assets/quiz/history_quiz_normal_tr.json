@@ -1,0 +1,412 @@
+[
+    {
+        "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+        "choices": [
+            "Fatih Sultan Mehmet",
+            "Orhan Gazi",
+            "I. Murad",
+            "Osman Gazi"
+        ],
+        "answer": "Osman Gazi"
+    },
+    {
+        "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+        "choices": [
+            "Mustafa Kemal Atatürk",
+            "İsmet İnönü",
+            "Celal Bayar",
+            "İsmet İnönü"
+        ],
+        "answer": "Mustafa Kemal Atatürk"
+    },
+    {
+        "question": "Hangi yıl Türkiye Cumhuriyeti ilan edildi?",
+        "choices": [
+            "1920",
+            "1922",
+            "1923",
+            "1924"
+        ],
+        "answer": "1923"
+    },
+    {
+        "question": "I. Dünya Savaşı hangi yıllar arasında gerçekleşti?",
+        "choices": [
+            "1914-1916",
+            "1915-1917",
+            "1916-1918",
+            "1914-1918"
+        ],
+        "answer": "1914-1918"
+    },
+    {
+        "question": "Atatürk'ün Samsun'a çıkışı hangi tarihte gerçekleşti?",
+        "choices": [
+            "19 Mayıs 1919",
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "10 Kasım 1938"
+        ],
+        "answer": "19 Mayıs 1919"
+    },
+    {
+        "question": "Hangi yıl Türk Dil Bayramı olarak kutlanmaktadır?",
+        "choices": [
+            "23 Nisan",
+            "19 Mayıs",
+            "29 Ekim",
+            "10 Kasım"
+        ],
+        "answer": "23 Nisan"
+    },
+    {
+        "question": "Kurtuluş Savaşı hangi yıllar arasında gerçekleşti?",
+        "choices": [
+            "1918-1920",
+            "1919-1922",
+            "1919-1923",
+            "1920-1923"
+        ],
+        "answer": "1919-1922"
+    },
+    {
+        "question": "Türkiye'de kadınlara seçme ve seçilme hakkı hangi yıl verilmiştir?",
+        "choices": [
+            "1923",
+            "1930",
+            "1934",
+            "1938"
+        ],
+        "answer": "1934"
+    },
+    {
+        "question": "Türkiye'de hilafetin kaldırılması hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1922",
+            "1923",
+            "1924",
+            "1925"
+        ],
+        "answer": "1924"
+    },
+    {
+        "question": "Türkiye Cumhuriyeti'nin ilan edildiği tarih hangisidir?",
+        "choices": [
+            "1920",
+            "1922",
+            "1923",
+            "1924"
+        ],
+        "answer": "1923"
+    },
+    {
+        "question": "Harf Devrimi hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1928"
+    },
+    {
+        "question": "Türkiye Cumhuriyeti'nin başkenti neresidir?",
+        "choices": [
+            "İstanbul",
+            "Ankara",
+            "İzmir",
+            "Bursa"
+        ],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Hangi yıl Türk Dil Bayramı olarak kutlanmaktadır?",
+        "choices": [
+            "19 Mayıs",
+            "23 Nisan",
+            "29 Ekim",
+            "10 Kasım"
+        ],
+        "answer": "23 Nisan"
+    },
+    {
+        "question": "Yabancı isimlerin Türkçe'ye dönüştürülmesi çalışması hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1932"
+    },
+    {
+        "question": "Kıyafet Devrimi hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1925",
+            "1927",
+            "1929",
+            "1931"
+        ],
+        "answer": "1925"
+    },
+    {
+        "question": "Türkiye'de tekke ve zaviyelerin kapatılması hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1924",
+            "1926",
+            "1928",
+            "1930"
+        ],
+        "answer": "1925"
+    },
+    {
+        "question": "Latin alfabesine geçiş hangi yıl gerçekleştirilmiştir?",
+        "choices": [
+            "1926",
+            "1928",
+            "1930",
+            "1932"
+        ],
+        "answer": "1928"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+        "choices": [
+            "Fatih Sultan Mehmet",
+            "Orhan Gazi",
+            "I. Murad",
+            "Osman Gazi"
+        ],
+        "answer": "Osman Gazi"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun başkenti neresidir?",
+        "choices": [
+            "İstanbul",
+            "Ankara",
+            "Bursa",
+            "Edirne"
+        ],
+        "answer": "İstanbul"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun en uzun hükümdarı kimdir?",
+        "choices": [
+            "II. Mahmud",
+            "I. Abdülhamid",
+            "II. Abdulhamid",
+            "Kanuni Sultan Süleyman"
+        ],
+        "answer": "Kanuni Sultan Süleyman"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun son hükümdarı kimdir?",
+        "choices": [
+            "I. Mehmed",
+            "II. Mehmed",
+            "V. Mehmed",
+            "VI. Mehmed"
+        ],
+        "answer": "VI. Mehmed"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun son dönem padişahı hangi saltanat döneminde tahtta olmuştur?",
+        "choices": [
+            "I. Mahmud",
+            "II. Mahmud",
+            "II. Abdulhamid",
+            "V. Mehmed Reşad"
+        ],
+        "answer": "II. Abdulhamid"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu hangi yıl dağılmıştır?",
+        "choices": [
+            "1918",
+            "1920",
+            "1922",
+            "1924"
+        ],
+        "answer": "1922"
+    },
+    {
+        "question": "Osmanlı İmparatorluğu'nun son döneminde hangi savaşta Osmanlı Devleti yenilmiştir?",
+        "choices": [
+            "I. Dünya Savaşı",
+            "II. Dünya Savaşı",
+            "Kurtuluş Savaşı",
+            "Trablusgarp Savaşı"
+        ],
+        "answer": "I. Dünya Savaşı"
+    },
+    {
+        "question": "Hangi padişahın saltanat döneminde Tanzimat Fermanı ilan edilmiştir?",
+        "choices": [
+            "I. Mahmud",
+            "II. Mahmud",
+            "Abdülmecid",
+            "Abdülaziz"
+        ],
+        "answer": "Abdülmecid"
+    },
+    {
+        "question": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Timur",
+            "Batu Han"
+        ],
+        "answer": "Cengiz Han"
+    },
+    {
+        "question": "Moğollar hangi yüzyılda Orta Asya'dan çıkarak geniş bir imparatorluk kurmuşlardır?",
+        "choices": [
+            "10. yüzyıl",
+            "11. yüzyıl",
+            "12. yüzyıl",
+            "13. yüzyıl"
+        ],
+        "answer": "13. yüzyıl"
+    },
+    {
+        "question": "Moğollar hangi ülkenin başkentini ele geçirerek büyük bir imparatorluk kurmuşlardır?",
+        "choices": [
+            "Çin",
+            "Hindistan",
+            "Pers",
+            "Rusya"
+        ],
+        "answer": "Çin"
+    },
+    {
+        "question": "Moğolların kurduğu imparatorluğun başkenti hangi şehirdir?",
+        "choices": [
+            "Buhara",
+            "İsfahan",
+            "Samarkand",
+            "Taşkent"
+        ],
+        "answer": "Samarkand"
+    },
+    {
+        "question": "Moğollar hangi taktikleriyle tanınmışlardır?",
+        "choices": [
+            "Gizli suikastlar",
+            "Okçu savaşçılar",
+            "Zırhlı savaş arabaları",
+            "Kuşatma makineleri"
+        ],
+        "answer": "Okçu savaşçılar"
+    },
+    {
+        "question": "Moğolların hüküm sürdüğü dönemde hangi ünlü gezgin, Moğol İmparatorluğu'nu ziyaret etmiştir?",
+        "choices": [
+            "Marco Polo",
+            "Ibn Battuta",
+            "Christopher Columbus",
+            "Vasco da Gama"
+        ],
+        "answer": "Marco Polo"
+    },
+    {
+        "question": "Moğol İmparatorluğu hangi yıl dağılmıştır?",
+        "choices": [
+            "1258",
+            "1299",
+            "1368",
+            "1405"
+        ],
+        "answer": "1368"
+    },
+    {
+        "question": "Moğolların Batı'ya yaptığı büyük akınları hangi isimle anılmaktadır?",
+        "choices": [
+            "Büyük Göç",
+            "Altın Orda Devleti",
+            "Moğol İstilası",
+            "Silk Road"
+        ],
+        "answer": "Moğol İstilası"
+    },
+    {
+        "question": "Moğolların Batı'ya yaptığı akınlarda başarıyla kullanılan askeri birlikleri hangi adı taşır?",
+        "choices": [
+            "Timar sistemi",
+            "Yayasız askerler",
+            "Topçu birlikleri",
+            "Tümen"
+        ],
+        "answer": "Tümen"
+    },
+    {
+        "question": "Moğol İmparatorluğu'nun en ünlü hükümdarı kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Batu Han",
+            "Timur"
+        ],
+        "answer": "Cengiz Han"
+    },
+    {
+        "question": "Moğol İmparatorluğu'nun başkenti hangi şehirdir?",
+        "choices": [
+            "Karakurum",
+            "Buhara",
+            "Samarkand",
+            "Pekin"
+        ],
+        "answer": "Karakurum"
+    },
+    {
+        "question": "Moğolların Avrupa'ya yaptığı seferleri yöneten hanedanlık hangisidir?",
+        "choices": [
+            "Altın Orda Devleti",
+            "Timur İmparatorluğu",
+            "Selçuklu Hanedanlığı",
+            "Safevi Devleti"
+        ],
+        "answer": "Altın Orda Devleti"
+    },
+    {
+        "question": "Moğolların Avrupa'ya yaptığı seferlerin komutanı kimdir?",
+        "choices": [
+            "Kubilay Han",
+            "Batu Han",
+            "Timur",
+            "Tamerlane"
+        ],
+        "answer": "Batu Han"
+    },
+    {
+        "question": "Moğolların Batı'ya yaptığı akınlar hangi yüzyılda gerçekleşmiştir?",
+        "choices": [
+            "10. yüzyıl",
+            "11. yüzyıl",
+            "12. yüzyıl",
+            "13. yüzyıl"
+        ],
+        "answer": "13. yüzyıl"
+    },
+    {
+        "question": "Moğolların İran'ı fetheden komutanı kimdir?",
+        "choices": [
+            "Cengiz Han",
+            "Kubilay Han",
+            "Timur",
+            "Hülagü Han"
+        ],
+        "answer": "Hülagü Han"
+    },
+    {
+        "question": "Moğolların kurduğu büyük imparatorluğun adı nedir?",
+        "choices": [
+            "Selçuklu İmparatorluğu",
+            "Safevi İmparatorluğu",
+            "Osmanlı İmparatorluğu",
+            "Moğol İmparatorluğu"
+        ],
+        "answer": "Moğol İmparatorluğu"
+    }
+]
